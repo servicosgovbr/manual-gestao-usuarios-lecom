@@ -28,3 +28,6 @@ Manual de Gestão de Usuários
    graficos
    esqueceu
    suporte_tecnico
+   usuario_em_dois_ou_mais_servicos
+   usuario_com_senha_expirada_1_acesso
+   atualizacao_planilhas_auxiliares
