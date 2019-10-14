@@ -6,7 +6,7 @@
 Como acessar uma Instância de um Órgão?
 ===============================
 
-- Acesse o endereço https://docs.google.com/spreadsheets/d/10-Rs8QFSvZrVHfbVO_oQYjEg8cFJfbz5tIROn5EhZiQ/edit#gid=770060652
+- Acesse o endereço https://docs.google.com/spreadsheets/d/10-Rs8QFSvZrVHfbVO_oQYjEg8cFJfbz5tIROn5EhZiQ/edit?usp=sharing​
 
 A seguinte tela será exibida contendo todas as instâncias de atendimento dos Órgãos:
 
